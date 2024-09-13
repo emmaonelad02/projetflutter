@@ -45,3 +45,12 @@ class HomeScreen extends StatelessWidget {
     );
   }
 }
+<<<<<<< HEAD
+=======
+
+class Widget {
+}
+
+class BuildContext {
+}
+>>>>>>> c73ab1f (commit)
